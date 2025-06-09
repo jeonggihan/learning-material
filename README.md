@@ -22,6 +22,8 @@
 - [15. 자바 메모리 모델과 GC](basic-java/15.md)
 - [16. 쓰레드와 동기화](basic-java/16.md)
 - [17. Enum과 애너테이션](basic-java/17.md)
+
+
 ### 2. [Modern Java In Action](modern-java-in-action/00.md)
 - [01. 기초](modern-java-in-action/01.md)
 - [02. 함수형 데이터 처리](modern-java-in-action/02.md)
@@ -58,6 +60,8 @@
 - [11. Spring AOP](basic-spring/11.md)
 - [12. 테스트](basic-spring/12.md)
 - [13. Spring Boot 3 주요 특징](basic-spring/13.md)
+
+
 ### 2. [Spring Extend](spring-extend/00.md)
 - [1. Spring Boot Actuator 확장](spring-extend/01.md)
 - [2. Spring Security 확장](spring-extend/02.md)
