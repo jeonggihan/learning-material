@@ -68,3 +68,4 @@
 - [3. API Docs (OpenAPI / Swagger)](spring-extend/03.md)
 - [4. 커스텀 AutoConfiguration 만들기](spring-extend/04.md)
 - [5. Spring Boot Admin 연동](spring-extend/05.md)
+- [6. QueryDSL 연동](spring-extend/06.md)
